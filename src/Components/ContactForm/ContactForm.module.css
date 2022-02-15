@@ -1,0 +1,12 @@
+body {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+form{
+    border: 1px ridge rgb(168, 28, 28);
+
+}
