@@ -7,7 +7,6 @@ const Filter = ({ value, changeFilter }) => {
       <h2 className={style.Title}>Find contacts by name</h2>
       <input
         type="text"
-        // name="filter"
         value={value}
         onChange={changeFilter}
       />
